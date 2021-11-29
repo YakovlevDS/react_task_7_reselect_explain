@@ -1,0 +1,8 @@
+h1, p {
+  font-family: Lato;
+}
+button {
+  border: 1px solid #EEE;
+  padding: 10px;
+  margin-right: 5px;
+}
